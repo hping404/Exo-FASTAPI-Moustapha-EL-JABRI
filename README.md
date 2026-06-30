@@ -1,5 +1,3 @@
-# Exo-FASTAPI-Moustapha-EL-JABRI# DevOps Monitoring API
-
 ## Overview
 
 This project is a simple monitoring API built with FastAPI as part of the Day 2 lab.
